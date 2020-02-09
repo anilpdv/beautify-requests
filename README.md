@@ -1,11 +1,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## beautify requests
+## Beautify Requests
 
-### light
+### Light
 ![Image description](https://github.com/anilpdv/beautify-requests/blob/master/beautify-request-light.png)
 
-### dark
+### Dark
 ![Image description](https://github.com/anilpdv/beautify-requests/blob/master/beautify-request.png)
 
 
