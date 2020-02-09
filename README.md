@@ -2,6 +2,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## beautify requests
 
+### light
+![Image description](https://github.com/anilpdv/beautify-requests/blob/master/beautify-request-light.png)
+
+### dark
+![Image description](https://github.com/anilpdv/beautify-requests/blob/master/beautify-request.png)
 
 
 ## Available Scripts
